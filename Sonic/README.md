@@ -1,4 +1,4 @@
-# Sahara
+# Sonic
 Draw Sonic character with correct shapes and colors
 ## Source code
 [View source code](https://github.com/elmoiv/Graphics-300/blob/main/Sonic/Sonic.java)
